@@ -1,5 +1,7 @@
 ## Hi, this is Icarus Wu  👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Icarus9913.Icarus9913&left_color=green&right_color=red)
+
 ### Cloud && Web3.0
 
 - 😄 I’m a cloud native developer currently working on [spidernet-io](https://github.com/spidernet-io) CNI project. 
