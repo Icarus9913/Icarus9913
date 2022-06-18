@@ -8,4 +8,4 @@
 - 😬 I used to do something about [Filecoin/lotus](https://github.com/filecoin-project/lotus) blockchain project. 
 - 🧐 I’m currently learning kubernetes, ingress, istio, envoy, coreDNS and [libp2p](https://github.com/libp2p), some blockchain stuff.
 
-[![Icarus9913's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarus9913&hide=stars&include_all_commits=true&show_icons=true)]()
+[![Icarus9913's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarus9913&hide=stars&include_all_commits=true&show_icons=true&count_private=true)]()
