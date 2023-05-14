@@ -1,6 +1,6 @@
 ## :wave: Hi, this is Icarus Wu  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Icarus9913.Icarus9913&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=Icarus9913)
 
 ### Cloud && Web3.0
 
